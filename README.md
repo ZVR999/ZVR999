@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ZVR999
-- 👀 I’m interested in Python, R, reading financial charts, and trading financial instruments.
-- 🌱 I’m currently learning Python and R for building web apps, console apps, trading algorithms, and visualizing data coming from the markets.
-- 💞️ I’m looking to collaborate on trading algorithms for employments. My main skillset is the ability to understand why the finanical markets move the way they do. 
-  I will be adding a strong coding skillset to this to add more value to my career skillset. Currently, I'm able to read and understand code, but until now; I haven't had any good 
-  reasons to build my coding skills.
+- 👋 Hi, I’m Zach
+- 👀 I've solidified my foundations within Python, reading financial charts, and trading/investing in financial instruments and am now interested in breaking into Cybersecurity.
+- 🌱 I’m currently involved in a cyber security bootcamp with Springboard while also being enrolled in Offensive Security courses, working with my home lab, and courses with TryHackMe.
+- 💞️ I’m looking to get my start in cybersecurity to then constantly learn and do more within this field. 
 - 📫 How to reach me:
   --Linkedin
   --Github
