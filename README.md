@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- 👀 I've solidified my foundations within Python, reading financial charts, and trading/investing in financial instruments and am now interested in breaking into Cybersecurity.
+- 👀 I've solidified my foundations with Python, reading financial charts, and trading/investing in financial instruments and am now interested in breaking into Cybersecurity.
 - 🌱 I’m currently involved in a cyber security bootcamp with Springboard while also being enrolled in Offensive Security courses, working with my home lab, and courses with TryHackMe.
 - 💞️ I’m looking to get my start in cybersecurity to then constantly learn and do more within this field. 
 - 📫 How to reach me:
