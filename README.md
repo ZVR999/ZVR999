@@ -4,7 +4,7 @@
 
 - 🌱 I’ve graduated from the cybersecurity bootcamp with Springboard and currently, I'm enrolled in Offensive Security courses, working with my home lab, and courses with TryHackMe, and Pentester Academy.
 
-- 💞️ I’m looking to get my start in cybersecurity to then constantly learn and do more within this field. 
+- 💞️ Since I love to constantly learn and do more, the field of cybersecurity defintely feels right for me! 
 
 - 📫 How to reach me:
   --Linkedin
