@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach
 
-- 👀 I've solidified my foundations with coding, reading financial charts, and more for my current employment as a quant trader and am now interested in breaking into Cybersecurity.
+- 👀 I've solidified my foundations with programming and am now interested in breaking into Cybersecurity.
 
 - 🌱 I’ve recently graduated from the cybersecurity bootcamp with Springboard. In addition, I'm currently enrolled in Offensive Security courses (Learn One), courses with TryHackMe, Pentester Academy, as well as working with my home lab.
 
